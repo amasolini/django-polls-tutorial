@@ -10,3 +10,5 @@ Working branches:
 
 - [django-1.10](../../tree/django-1.10)
 - [django-1.11](../../tree/django-1.11)
+
+- [another 1.10 link](/sloanlance/django-polls-tutorial/tree/django-1.10)
